@@ -21,8 +21,8 @@ venv/
 logs/
 *.log
 
-# Data (runtime generated)
-data/
+## Data (runtime generated)
+#data/
 
 # Database
 *.db-journal
